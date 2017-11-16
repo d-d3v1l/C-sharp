@@ -15,7 +15,8 @@ namespace ConsoleApp6
 
             var solution = jumps % n;
             Console.WriteLine(solution);
-            // kur
+            // ba
+
 
         }
     }
