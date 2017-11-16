@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums 1-20", "ConsoleApp9\Nums 1-20.csproj", "{7559C44F-1BED-4D51-AE07-05CED0F29751}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle of stars", "Triangle of stars\Triangle of stars.csproj", "{1EBF51FC-D55B-462C-A391-A5B4FBB50235}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7559C44F-1BED-4D51-AE07-05CED0F29751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7559C44F-1BED-4D51-AE07-05CED0F29751}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7559C44F-1BED-4D51-AE07-05CED0F29751}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7559C44F-1BED-4D51-AE07-05CED0F29751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBF51FC-D55B-462C-A391-A5B4FBB50235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBF51FC-D55B-462C-A391-A5B4FBB50235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBF51FC-D55B-462C-A391-A5B4FBB50235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBF51FC-D55B-462C-A391-A5B4FBB50235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {99ED5F96-67EF-47FF-9842-ABE7F38131B3}
+		SolutionGuid = {F62462F9-DFAB-4607-8D5D-98A83B0FADDE}
 	EndGlobalSection
 EndGlobal
