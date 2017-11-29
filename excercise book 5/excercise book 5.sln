@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercises from the book", "Excercise 17 test\Excercises from the book.csproj", "{2F63784B-5841-4A3A-8362-D2F512F1E9BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excercise book 5", "excercise book 5\excercise book 5.csproj", "{47A5CE31-6C7E-4629-9529-94ABF7034394}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F63784B-5841-4A3A-8362-D2F512F1E9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F63784B-5841-4A3A-8362-D2F512F1E9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F63784B-5841-4A3A-8362-D2F512F1E9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F63784B-5841-4A3A-8362-D2F512F1E9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A5CE31-6C7E-4629-9529-94ABF7034394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A5CE31-6C7E-4629-9529-94ABF7034394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A5CE31-6C7E-4629-9529-94ABF7034394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A5CE31-6C7E-4629-9529-94ABF7034394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2589F16D-FFDD-4C85-894B-DA62F8AD8E64}
+		SolutionGuid = {212125B2-D6AC-46C8-A041-210720C22039}
 	EndGlobalSection
 EndGlobal
