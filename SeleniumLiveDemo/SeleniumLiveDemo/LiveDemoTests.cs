@@ -35,7 +35,8 @@ namespace SeleniumLiveDemo
         [testCleanup]
         public void CloseBrowser()
         {
-        this.Driver.Close();
+        this.Driver.Close(); 
+
         }
     }
 }
